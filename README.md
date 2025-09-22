@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheVeteran1
 - I am a Student , programmer and so called Security Researcher
-- 👀 I do Coding , Hacking and develop new things
+- 👀 I do Coding , Hacks and develop new things
 
 
 <!---
